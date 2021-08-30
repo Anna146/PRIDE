@@ -1,0 +1,10 @@
+urllib3==1.23
+torch==1.7.0
+numpy==1.17.0
+pescador==2.0.0
+transformers==2.11.0
+pathlib==1.0.1
+sklearn==0.0
+progressbar==2.5
+nltk==3.4.5
+joblib==0.12.5
