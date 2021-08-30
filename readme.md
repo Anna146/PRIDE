@@ -1,4 +1,5 @@
 ###PRIDE
+
 download data.zip from https://www.dropbox.com/s/50fkwv1ex4moyu2/data.rar?dl=0
 and extract into the project directory
 
@@ -7,9 +8,6 @@ cd to project directory
 Python 3.6.4
 
 You will have to run the scrips on slurm cluster
-
-#####0 Download data
-Data can be downloaded from https://www.dropbox.com/s/50fkwv1ex4moyu2/data.rar?dl=0
 
 #####1 Create data
 bash scripts/run_data.sh
