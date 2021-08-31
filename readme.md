@@ -9,8 +9,11 @@ You will have to run the scrips on the slurm cluster
 https://slurm.schedmd.com/quickstart.html
 
 ## 0 Download data
-Download data.zip from https://www.dropbox.com/s/50fkwv1ex4moyu2/data.rar?dl=0 and extract into the project directory.
+Download data.zip from https://www.dropbox.com/s/50fkwv1ex4moyu2/data.rar?dl=0 (main experiment) and extract into the project directory.
+
 More details on data are in data folder readme.
+
+Additionally you can download the data for experiment with prediction on TV series scripts https://www.dropbox.com/s/m1gxq155fhly26l/series.rar?dl=0
 
 ## 1 Create data
 `bash scripts/run_data.sh`
