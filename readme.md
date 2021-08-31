@@ -1,5 +1,6 @@
-# PRIDE
+# PRIDE: Predicting Relationship In Dialogue Excerpts
 
+Refer to the paper for further details
 
 Requirements: Python 3.6.4 and libs from scripts/requirements.txt
 
