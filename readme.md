@@ -14,7 +14,7 @@ Download data.zip from https://www.dropbox.com/s/50fkwv1ex4moyu2/data.rar?dl=0 (
 
 More details on data are in data folder readme.
 
-Additionally you can download the data for experiment with prediction on TV series scripts https://www.dropbox.com/s/m1gxq155fhly26l/series.rar?dl=0
+Additionally you can download the data for experiment with prediction on TV series scripts https://www.dropbox.com/s/ju4eb9oz5vudavz/series.rar?dl=0
 
 ## 1 Create data
 `bash scripts/run_data.sh`
