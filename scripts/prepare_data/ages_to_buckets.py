@@ -9,7 +9,7 @@ age_map = {(-100,-13): 0, (-12,-6): 1, (-5,-1): 2, (0,4): 3, (5,11): 4, (12,100)
 
 film_dict = defaultdict(lambda: defaultdict(list))
 
-mchd = dict((line.strip().split(":::")[1],line.strip().split(":::")[0]) for line in open("/home/tigunova/PycharmProjects/rel_ham/data/movie_name_chaging_dict.txt").readlines())
+mchd = dict((line.strip().split(":::")[1],line.strip().split(":::")[0]) for line in open(project_dir + "/data/movie_name_chaging_dict.txt").readlines())
 
 for line in open(paramita_path):
     line = line.strip().split(" +++$+++ ")
